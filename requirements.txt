@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+nltk
+spacy
+textstat
+transformers
