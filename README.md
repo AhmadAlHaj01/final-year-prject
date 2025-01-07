@@ -37,7 +37,7 @@ How to Set Up the Frontend
 Clone the repository and switch to the frontend branch:
 git clone https://github.com/AhmadAlHaj01/final-year-prject.git
 cd final-year-prject
-git checkout frontend
+git checkout flutter_frontend
 Ensure Flutter is installed. If not, follow the installation guide from Flutter's official documentation.
 Run the project using the following commands:
 
